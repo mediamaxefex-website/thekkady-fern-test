@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Double occupancy room placeholder</title>
+  <desc id="desc">Decorative placeholder for a future double occupancy room photograph.</desc>
+  <rect width="1200" height="800" fill="#173f31"/>
+  <circle cx="1010" cy="132" r="110" fill="#d6b56d" opacity=".48"/>
+  <rect x="145" y="340" width="410" height="210" rx="20" fill="#fff8e8"/>
+  <rect x="645" y="340" width="410" height="210" rx="20" fill="#fff8e8"/>
+  <rect x="118" y="508" width="964" height="62" rx="22" fill="#d6b56d"/>
+  <path d="M198 235 C349 95 486 95 600 231 C714 95 851 95 1002 235" fill="none" stroke="#fff8e8" stroke-width="10" stroke-linecap="round" opacity=".38"/>
+  <text x="600" y="685" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#fff8e8">Double Room Photo</text>
+</svg>
