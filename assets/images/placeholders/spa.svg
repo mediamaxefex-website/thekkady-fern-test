@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Spa placeholder</title>
+  <desc id="desc">Decorative placeholder for future spa and massage photography.</desc>
+  <rect width="1200" height="800" fill="#153a2c"/>
+  <circle cx="245" cy="180" r="115" fill="#d6b56d" opacity=".35"/>
+  <circle cx="970" cy="620" r="185" fill="#d6b56d" opacity=".22"/>
+  <path d="M390 425 C459 317 539 283 600 285 C661 283 741 317 810 425 C722 405 660 430 600 511 C540 430 478 405 390 425 Z" fill="#fff8e8" opacity=".88"/>
+  <path d="M600 284 C565 223 574 156 600 104 C626 156 635 223 600 284 Z" fill="#d6b56d"/>
+  <text x="600" y="642" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#fff8e8">Spa Photo</text>
+</svg>

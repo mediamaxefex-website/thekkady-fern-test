@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Activities placeholder</title>
+  <desc id="desc">Decorative placeholder for future activities photography.</desc>
+  <rect width="1200" height="800" fill="#fff8e8"/>
+  <path d="M0 558 C150 462 259 523 389 429 C548 314 697 407 823 322 C963 227 1065 250 1200 174 L1200 800 L0 800 Z" fill="#153a2c"/>
+  <path d="M123 484 C237 364 363 340 500 423 C636 506 722 484 830 382 C933 285 1030 244 1160 284" fill="none" stroke="#d6b56d" stroke-width="22" stroke-linecap="round"/>
+  <text x="600" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#143d2d">Activities Photo</text>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#446454">Replace with real local image</text>
+</svg>
